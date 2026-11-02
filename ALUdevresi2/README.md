@@ -19,7 +19,7 @@ Bu projede 4 bitlik iki giriş üzerinde toplama, çıkarma, AND, OR ve çarpma 
 | 001 | Çıkarma | İki'nin tümleyeni yöntemiyle toplama kullanılarak gerçekleştirilir. |
 | 010 | AND | İki girişin bitlerine AND işlemi uygulanır. |
 | 011 | OR | İki girişin bitlerine OR işlemi uygulanır. |
-| 100 | Çarpma | İki sayı normal şekilde çarpılır. |
+| 100 | Çarpma | İki sayı çarpılır. |
 
 ## Kullanılan Dosyalar
 
